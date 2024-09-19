@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, welcome!
+My name is Shiyi Zhou, I am a PhD candidate in **Computational Mathematics** at the school of Mathematics and Statistics, **Wuhan University**. My research focuses on numerical methods and optimization algorithms for solving mathematical problems in engineering.
+
+### Skills and Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+
 
 <!--
 **coldrainzsy/coldrainzsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
